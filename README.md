@@ -1,4 +1,4 @@
-```markdown
+
 # Private Escrow Service for OTC Deals
 
 This project is designed as a fully decentralized escrow service for over-the-counter (OTC) deals, leveraging **Zama's Fully Homomorphic Encryption technology** to ensure the utmost privacy and security in financial transactions. By encrypting the transaction details, prices, and identities of the parties involved, this service guarantees that assets are only transferred when cryptographic settlement conditions are met, making it an essential tool for large-scale P2P transactions in the decentralized finance (DeFi) landscape.
